@@ -45,7 +45,7 @@ Top Starting Location demonstrates bikes are most frequently checked out at popu
 
 Image 7: ![Bike Utilization](https://github.com/caseygomez/bikesharing/blob/main/Visuals/BikeUtilization.png)
 
-Looking at image 7, Bike Utilization, there are hundreds of bikes with a proportion utilized more than others. Des Moines is 88 sq mi (land) and New York City is 300 sq mi (land). That means Des Moines is smaller, and potentially more accessible by bike. 
+Bike Utilization is an efficient way to see the proportion of bikes utilized. Des Moines is 88 sq mi (land), significantly smaller than New York City. That means Des Moines is potentially more accessible by bike.
 
 ---
 ### Results: 
