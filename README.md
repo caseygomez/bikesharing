@@ -7,7 +7,7 @@ This project focused on data collection, validation and visualization. First I c
 ### Resources:
 * Source Code: [NYC_CitiBike_Challenge_Code](NYC_CitiBike_Challenge_Starter_Code.ipynb)
 * Source Data: [201908-citibike-tripdata](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
-* Software: [Tableau Public](https://public.tableau.com/app/discover), [Pandas](https://pandas.pydata.org/docs/index.html)
+* Technology: [Tableau Public](https://public.tableau.com/app/discover), [Pandas](https://pandas.pydata.org/docs/index.html)
 
 ---
 ### Deliverables:
