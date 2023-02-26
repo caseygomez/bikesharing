@@ -35,7 +35,8 @@ Image 4 ![Trips by Gender per Weekday](https://github.com/caseygomez/bikesharing
 
 Image 4, Trips by Gender per Weekday breaks the previous heatmap down by Gender. The data shows there is an increase in rides during rush hour for all groups, however males are still the most frequent users. 
 
-Image 5 ![User Trips by Gender](https://github.com/caseygomez/bikesharing/blob/main/Visuals/User:Gender:Weekday.png)
+Image 5 
+![User Trips by Gender](https://github.com/caseygomez/bikesharing/blob/main/Visuals/User:Gender:Weekday.png)
 
 The data shows most users are in fact subscribers. Additionally we see there are more male subscribers than female. Offering perks for subscribers and incentives for new accounts may boost growth. 
 
